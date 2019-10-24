@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<films>
+    <film>
+        <title>Zielona mila</title>
+        <genre>Dramat</genre>
+        <year>1999</year>
+        <personal_rating scale="standart">10</personal_rating>
+        <director>Frank Darabont</director>
+        <actors>
+            <actor role="main">Tom Hanks</actor>
+            <actor role="main">David Morse</actor>
+            <actor role="main">Bonnie Hunt</actor>
+        </actors>
+    </film>
+        <film>
+        <title>Skazani na Shawshank</title>
+        <genre>Dramat</genre>
+        <year>1994</year>
+        <personal_rating scale="standart">10</personal_rating>
+        <director>Frank Darabont</director>
+        <actors>
+            <actor role="main">Tim Robbins</actor>
+            <actor role="main">Morgan Freeman</actor>
+            <actor role="main">Bob Gunton</actor>
+        </actors>
+    </film>
+        <film>
+        <title>Forrest Gump</title>
+        <genre>	Dramat,Komedia</genre>
+        <year>1994</year>
+        <personal_rating scale="standart">8</personal_rating>
+        <director>Robert Zemeckis</director>
+        <actors>
+            <actor role="main">Tom Hanks</actor>
+            <actor role="main">Robin Wright</actor>
+            <actor role="main">Gary Sinise</actor>
+        </actors>
+    </film>
+        <film>
+        <title>Leon zawodowiec</title>
+        <genre>	Dramat,Kryminał</genre>
+        <year>1994</year>
+        <personal_rating scale="standart">9</personal_rating>
+        <director>Luc Besson</director>
+        <actors>
+            <actor role="main">Jean Reno</actor>
+            <actor role="main">Gary Oldman</actor>
+            <actor role="main">Natalie Portman</actor>
+        </actors>
+    </film>
+        <film>
+        <title>Requiem dla snu</title>
+        <genre>	Dramat</genre>
+        <year>2000</year>
+        <personal_rating scale="standart">7</personal_rating>
+        <director>Darren Aronofsky</director>
+        <actors>
+            <actor role="main">Ellen Burstyn</actor>
+            <actor role="main">Jared Leto</actor>
+            <actor role="main">Jennifer Connelly</actor>
+        </actors>
+    </film>
+</films>
