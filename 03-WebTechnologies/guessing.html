@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Try to guess</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Try to guess</h1>
+
+		<script>
+			// read user's number (popup window)
+			var user=prompt("Guess a number")
+			var x=parseInt(user)
+			// create a random number
+			var y=Math.floor((Math.random()*5)+1)
+			// compare the numbers
+            if (x==y){
+				window.alert("Good work")
+			}
+			else{
+				window.alert("Sorry")
+			}
+			// show results (popup window)
+			
+		</script>
+	</body>
+</html>
