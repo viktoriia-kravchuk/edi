@@ -38,15 +38,20 @@
 							];
 				
 				// complete a JavaScript code here ...
-				// ...
+				var sentence=first[n()]+" "+second[n()]+" "+third[n()]+" "+fourth[n()]+" ";
+				return sentence;
 				
 			}
 
 			// returns random integer from 0 to 9
 			function n() {
-				// ...
+				x=Math.floor(Math.random() * 10); 
+				return x;
 			}
-			
+			for (var i=0;i<5;i++)
+			{
+				console.log(createSpeech())
+			}
 		</script>
 	</body>
 </html>
