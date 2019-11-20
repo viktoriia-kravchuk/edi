@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Create DOM elements</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h3 onmouseover="polski(this)" onmouseout="angielski(this)">Sticks and stones may break my bones, but words will never harm me.</h3>
+		<script>
+			// a JavaScript code here ...
+			function polski(x){
+				x.innerHTML="Kije i kamienie kości mi połamią, ale twoje słowa nigdy mnie nie zranią."
+			}
+			function angielski(x){
+				x.innerHTML="Sticks and stones may break my bones, but words will never harm me."
+			}
+			
+			// Translation:
+			// Kije i kamienie kości mi połamią, ale twoje słowa nigdy mnie nie zranią
+			
+		</script>
+	</body>
+</html>
