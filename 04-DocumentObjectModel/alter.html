@@ -1,31 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html ondblclick="kolor()">
 	<head>
 		<title >Pink Floyd</title>
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h1 onclick="napis(document.getElementById('paragraf'))">Another Brick in the Wall</h1>
-		<h3>Pink Floyd</h3>
-		<p>We don't need no education<br>
+		<h1 onclick="funkcja(this)" >Another Brick in the Wall</h1>
+		<h3 onclick="napis(document.getElementById('paragraf'))">Pink Floyd</h3>
+		<p onclick="italics(this)" oncopy="copyright()"">We don't need no education<br>
 		We don't need no thought control<br>
 		No dark sarcasm in the classroom<br>
 		Teachers leave them kids alone<br>
 		Hey! Teachers! Leave them kids alone<br>
 		All in all it's just another brick in the wall<br>
 		All in all you're just another brick in the wall</p>
+
 		
-		<p style="visibility: hidden;" id="paragraf">Pink Floyd were an English rock band formed in London.<br>
-		They achieved international acclaim with their progressive<br>
-		and psychedelic music.</p>
+		<p style="visibility: hidden;" id="paragraf" onclick="obraz(this)">Pink Floyd were an English rock band formed in London.<br>
+		They achieved international acclaim with their progressive<br>and psychedelic music.</p>
 		
 		<script>
 			// a JavaScript code here ...
+			function obraz(x){
+				var img = document.createElement("img");
+				img.src = "pf.jpg";
+				x.appendChild(img);
+
+			}
+			function copyright(){
+				alert("℗ 1979  X.Y.Z. Records, Inc. All rights reserved.");
+			}
+			function kolor(){
+				document.body.style.backgroundColor="yellow";
+			}
+			function italics(x){
+				x.style.fontStyle="italic"
+			}
+			function funkcja(){
+				document.getElementsByTagName("h1")[0].textContent+=" (Part 2)";
+			}
 			function napis(x){
 				x.style.visibility="visible";
 				body.appendChild(x);
 			}
-			
 		</script>
 	</body>
 </html>

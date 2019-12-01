@@ -9,11 +9,11 @@
 <body>
     <h1>Shopping List</h1>
     <p>
-        New item: <input type="text" name="item">
-        <button type="button">Add</button>
+        New item: <input type="text" name="item" id="input">
+        <button type="button" onclick="add()">Add</button>
     </p>
     <h3>List of items</h3>
-    <ol>
+    <ol id="list">
         <li>cooking oil</li>
         <li>breakfast cereal</li>
         <li>bread</li>
@@ -21,6 +21,12 @@
 
     <script>
     	// a JavaScript code here ...
+        function add(){
+            var ol = document.getElementById("list");
+            var li = document.createElement("li");
+            li.appendChild(document.createTextNode(document.getElementById("input").value));
+            ol.appendChild(li);
+        }
 
     </script>
 </body>
