@@ -9,15 +9,22 @@
 <body>
 	<h1>Filling in a form</h1>
 	<form>
-		<p>University:<br><input type="text"></p>
-		<p>Address:<br><input type="text"></p>
-		<button type="button">Hint</button>
+		<p >University:<br><input type="text" id="uni" size=30></p>
+		<p >Address:<br><input type="text" id="adress" size=30></p>
+		<button type="button" onclick="hint()">Hint</button>
 	</form>
 
 	<script>
 		// a JavaScript code here ...
+		function hint()
+		{
 		var university = "Cracow University of Economics";
 		var address = "Rakowicka 27, Krakow, POLAND";
+		document.getElementById("uni").value=university;
+		document.getElementById("adress").value=address;
+
+		
+		}
 
 	</script>
 </body>
