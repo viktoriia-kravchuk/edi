@@ -11,7 +11,12 @@
 		<p id="personalData"></p>
 
 		<script>
-
+			var request=new XMLHttpRequest();
+			request.open("GET","name.json");
+			request.send()
+			var name=request.responseText;
+			//var name=JSON.parse();
+			document.getElementById("personalData").innerHTML=name;
 		</script>
 
 	</body>
