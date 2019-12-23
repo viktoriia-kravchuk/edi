@@ -1,0 +1,2917 @@
+{
+   "@typ": "G",
+   "@id": "140331",
+   "@nazwa": "WZISS1-1112",
+   "@od": "2019-09-18",
+   "@do": "2020-02-20",
+   "okres": [
+      {
+         "@od": "2019-12-08",
+         "@do": "2019-12-22",
+         "@nazwa": "2019-12-08 do 2019-12-22"
+      },
+      {
+         "@od": "2019-09-18",
+         "@do": "2020-02-20",
+         "@nazwa": "2019-09-18 do 2020-02-20",
+         "@wybrany": "tak"
+      },
+      {
+         "@od": "2019-09-17",
+         "@do": "2020-09-30",
+         "@nazwa": "2019-09-17 do 2020-09-30"
+      },
+      {
+         "@od": "2018-09-29",
+         "@do": "2019-09-30",
+         "@nazwa": "2018-09-29 do 2019-09-30"
+      }
+   ],
+   "zajecia": [
+      {
+         "termin": "2019-10-01",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-03",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-10-03",
+         "dzien": "Cz",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Prawa i obowiązki studenta",
+         "przedmiot_eng":"Student rights and obligations",
+         "typ": "rezerwacja",
+         "nauczyciel": "Studencki Organizacja - Parlament",
+         "sala": "Paw.F 715"
+      },
+      {
+         "termin": "2019-10-03",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-10-03",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-04",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-07",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-07",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-10-07",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-10-07",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-08",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-08",
+         "dzien": "Wt",
+         "od-godz": "18:30",
+         "do-godz": "20:00 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2019-10-09",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-10-09",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-09",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-10-09",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-10-09",
+         "dzien": "Śr",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-10-10",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-10-10",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-10-10",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-11",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-14",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-14",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-10-14",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-10-14",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-15",
+         "dzien": "Wt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2019-10-15",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-16",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-10-16",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-16",
+         "dzien": "Śr",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 152"
+      },
+      {
+         "termin": "2019-10-16",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 013 lab. Win10, Office16"
+      },
+      {
+         "termin": "2019-10-16",
+         "dzien": "Śr",
+         "od-godz": "16:45",
+         "do-godz": "19:15 (3g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Bibl. 441"
+      },
+      {
+         "termin": "2019-10-17",
+         "dzien": "Cz",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Bibl. 441"
+      },
+      {
+         "termin": "2019-10-17",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-10-17",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-10-17",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-18",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-18",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-10-21",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-21",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-10-21",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-10-21",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-22",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-23",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-10-23",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-23",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-10-23",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-10-24",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-10-24",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-10-24",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-25",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-25",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-10-28",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-28",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-10-28",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-10-28",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-29",
+         "dzien": "Wt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2019-10-29",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-30",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-10-30",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-10-30",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-10-30",
+         "dzien": "Śr",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 152"
+      },
+      {
+         "termin": "2019-10-30",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 013 lab. Win10, Office16"
+      },
+      {
+         "termin": "2019-10-31",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "Przeniesienie zajęć",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": [],
+         "uwagi": "Na 04.11"
+      },
+      {
+         "termin": "2019-10-31",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-10-31",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-04",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-04",
+         "dzien": "Pn",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 613"
+      },
+      {
+         "termin": "2019-11-04",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-11-04",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "kolokwium":"Tematy od 00 do 03",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-11-04",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-05",
+         "dzien": "Wt",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-11-05",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-06",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-11-06",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-06",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-11-06",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-11-07",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-11-07",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-11-07",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-08",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-08",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-11-12",
+         "dzien": "Wt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2019-11-12",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-13",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-11-13",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-13",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "Przeniesienie zajęć",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": [],
+         "uwagi": "Na 16.10"
+      },
+      {
+         "termin": "2019-11-13",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "kolokwium":"Systemy pozycyjne",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 013 lab. Win10, Office16"
+      },
+      {
+         "termin": "2019-11-14",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-11-14",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-11-14",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-15",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-15",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-11-18",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-18",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-11-18",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-11-18",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-19",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-20",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "kolokwium":"Tematy od 1 do 3 włącznie",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-11-20",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-20",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-11-20",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "kolokwium":"Tematy od 01 do 03",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-11-21",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-11-21",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-11-21",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-22",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-22",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-11-25",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-25",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "kolokwium":"Tematy od 00 do 04 włącznie",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-11-25",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-11-25",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-26",
+         "dzien": "Wt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2019-11-26",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-27",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-11-27",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-27",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-11-27",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 013 lab. Win10, Office16"
+      },
+      {
+         "termin": "2019-11-28",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-11-28",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "Przeniesienie zajęć",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": [],
+         "uwagi": "Na 05.11"
+      },
+      {
+         "termin": "2019-11-28",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-29",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-11-29",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "kolokwium":"Tematy od 01 do 05",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-12-02",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-02",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-12-02",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "kolokwium":"Tematy od 05 do 10",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-12-02",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-03",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-04",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-12-04",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-04",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-12-04",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-12-05",
+         "dzien": "Cz",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Zarządzanie bezpieczeństwem w uczelni wyższej",
+         "przedmiot_eng":"University security management",
+         "typ": "rezerwacja",
+         "nauczyciel": "dr Mariusz Rozwadowski",
+         "sala": "Paw.C sala C"
+      },
+      {
+         "termin": "2019-12-05",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-12-05",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-12-05",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-06",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "kolokwium":"Types of business and cover letter",
+         "typ": "kolokwium",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-06",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-12-09",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-09",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-12-09",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-12-09",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-10",
+         "dzien": "Wt",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2019-12-10",
+         "dzien": "Wt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2019-12-10",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-11",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-12-11",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-11",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-12-11",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "kolokwium":"Rejestry i flagi",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 013 lab. Win10, Office16"
+      },
+      {
+         "termin": "2019-12-12",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-12-12",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-12-12",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-13",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-13",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-12-16",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-16",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-12-16",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-17",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-18",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2019-12-18",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-18",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2019-12-18",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2019-12-19",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2019-12-19",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2019-12-19",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-20",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-12-20",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2020-01-07",
+         "dzien": "Wt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2020-01-07",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-08",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2020-01-08",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-08",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2020-01-08",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 013 lab. Win10, Office16"
+      },
+      {
+         "termin": "2020-01-09",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2020-01-09",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2020-01-09",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-10",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-10",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2020-01-13",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-13",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2020-01-13",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2020-01-13",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-14",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-15",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2020-01-15",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-15",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2020-01-15",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "kolokwium":"Całościowy",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2020-01-16",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "kolokwium":"Tematy od 4 do 6 włącznie",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2020-01-16",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2020-01-16",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-17",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "kolokwium":"Irregular verbes, mixed tenses",
+         "typ": "kolokwium",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-17",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2020-01-20",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-20",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2020-01-20",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2020-01-20",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-21",
+         "dzien": "Wt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "kolokwium":"Tematy od 05 do 09 włącznie",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2020-01-21",
+         "dzien": "Wt",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2020-01-21",
+         "dzien": "Wt",
+         "od-godz": "13:15",
+         "do-godz": "14:00 (1g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.S sala 7"
+      },
+      {
+         "termin": "2020-01-21",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-22",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2020-01-22",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-22",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 013 lab. Win10, Office16"
+      },
+      {
+         "termin": "2020-01-23",
+         "dzien": "Cz",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.S sala 3"
+      },
+      {
+         "termin": "2020-01-23",
+         "dzien": "Cz",
+         "od-godz": "14:00",
+         "do-godz": "14:45 (1g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "kolokwium":"Assembler i debugger",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2020-01-23",
+         "dzien": "Cz",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Architektura systemów komputerowych",
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.F 106"
+      },
+      {
+         "termin": "2020-01-23",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-24",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-24",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "kolokwium":"Całościowy: tematy od 00 do 10",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2020-01-27",
+         "dzien": "Pn",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-27",
+         "dzien": "Pn",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2020-01-27",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2020-01-27",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-28",
+         "dzien": "Wt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Pracownia programowania I",
+         "przedmiot_eng":"Programming lab I",
+         "kolokwium":"Całościowy: tematy od 00 do 10",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2020-01-28",
+         "dzien": "Wt",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1043",
+            "#text": "mgr Katarzyna Wójcik"
+         },
+         "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+         "termin": "2020-01-28",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-29",
+         "dzien": "Śr",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Wprowadzenie do matematyki",
+         "przedmiot_eng":"Introduction to mathematics",
+         "kolokwium":"Tematy od 7 do 9 włącznie",
+         "typ": "kolokwium",
+         "nauczyciel": {
+            "@moodle": "-540",
+            "#text": "dr Jakub Bielawski"
+         },
+         "sala": "Paw.F 107"
+      },
+      {
+         "termin": "2020-01-29",
+         "dzien": "Śr",
+         "od-godz": "09:45",
+         "do-godz": "11:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-29",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "12:15 (1g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.C sala B"
+      },
+      {
+         "termin": "2020-01-29",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "15:45 (1g.)",
+         "przedmiot": "Elektroniczna wymiana danych",
+         "przedmiot_eng": "Electronic data interchange",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+         "termin": "2020-01-30",
+         "dzien": "Cz",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-31",
+         "dzien": "Pt",
+         "od-godz": "08:00",
+         "do-godz": "09:30 (2g.)",
+         "przedmiot": "Język obcy 2.1 (studia stacjonarne) - grupa przedmiotów",
+         "przedmiot_eng":"Foreign language 2.1 (full-time studies) - group of subjects",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2020-01-31",
+         "dzien": "Pt",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Organizacja i zarządzanie",
+         "przedmiot_eng": "Organization and management",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-928",
+            "#text": "dr Bernard Bińczycki"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2020-02-03",
+         "dzien": "Pn",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": [],
+         "przedmiot_eng":"Architecture of computer systems",
+         "typ": "egzamin",
+         "nauczyciel": {
+            "@moodle": "-891",
+            "#text": "dr Jan Madej"
+         },
+         "sala": "Paw.C sala A"
+      },
+      {
+         "termin": "2020-02-12",
+         "dzien": "Śr",
+         "od-godz": "13:15",
+         "do-godz": "14:45 (2g.)",
+         "przedmiot": "Teoretyczne podstawy informatyki",
+         "przedmiot_eng": "Theoretical foundations of computer science",
+         "typ": "egzamin",
+         "nauczyciel": {
+            "@moodle": "-892",
+            "#text": "dr hab. inż. Janusz Morajda"
+         },
+         "sala": "Paw.C  Nowa Aula"
+      }
+   ]
+}
