@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exchange rates</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Exchange rates</h1>
+		<p id="currencies"></p>		
+		<script>
+			var currency=new XMLHttpRequest();
+			currency.onreadystatechange=function(){
+				if (currency.status==200 && currency.readyState==4){
+					var kurs=JSON.parse(currency.responseText)[0]['rates']
+						for(var i=0;i<kurs.length;i++){
+							if (kurs[i]['code']=='USD' || kurs[i]['code']=='EUR' || kurs[i]['code']=='GBR'){
+								var text=document.createElement("p");
+								text.innerHTML="<b>"+kurs[i]['currency']+":</b> "+kurs[i]['mid']+" "+kurs[i]['code'];
+								document.getElementById("currencies").appendChild(text)
+							}
+
+						}
+				}
+			}
+			currency.open("GET","http://api.nbp.pl/api/exchangerates/tables/a/today/")
+			currency.send()
+		</script>
+
+	</body>
+</html>

@@ -12,19 +12,16 @@
 
 		<script>
 			function read(){
-				var method='GET';
-				var URL='name.json';
-				var request=new XMLHttpRequest();
-				request.onreadystatechange = function () { show(this); };
-				request.open(method, URL);
-				request.send();
+				var r=new XMLHttpRequest()
+				r.onreadystatechange = function() {
+					if(r.status == 200 && r.readyState == 4) {
+						var name = JSON.parse(r.responseText)
+						document.getElementById("personalData").innerHTML = name.name + " " + name.surname
+					}
+				}
+				r.open('GET', 'name.json')
+				r.send()
 			}
-			function show(r){
-				if(r.readyState==4 && r.status==200){
-					document.getElementById("personalData").innerHTML=r.responseText;
-				};
-
-			};
 		</script>
 
 	</body>

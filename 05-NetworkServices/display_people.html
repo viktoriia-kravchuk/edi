@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>People</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>People</h1>
+		<p>Click the button to display a data</p>
+		<input type="button" onclick="read_file()" value="Display people's data">
+		<p id="personalData"></p>
+
+		<script>
+			function read_file(){
+				var r=new XMLHttpRequest()
+				r.onreadystatechange = function() {
+					if(r.status == 200 && r.readyState == 4) {
+						var person= JSON.parse(r.responseText)
+						for (var i=0;i<person.length;i++){
+                            var text=document.createElement("p");
+                            text.innerHTML=i+1+". "+person[i].name+"  "+person[i].surname.toUpperCase()+", "+person[i].country;
+                            document.getElementById("personalData").appendChild(text);
+                        }
+					}
+				}
+				r.open('GET', 'people.json')
+				r.send()
+			}
+		</script>
+
+	</body>
+</html>

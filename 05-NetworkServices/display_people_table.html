@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>People</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+        <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	</head>
+	<body>
+		<h1>People</h1>
+		<table id="personalData">
+            <thead>
+                <tr><th>Name</th><th>Surname</th><th>Age</th><th>Country</th><th>Email</th></tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+		<script>
+				var r=new XMLHttpRequest()
+				r.onreadystatechange = function() {
+					if(r.status == 200 && r.readyState == 4) {
+						var person= JSON.parse(r.responseText)
+						for (var i=0;i<person.length;i++){
+                            var tr=document.createElement("tr")
+                            var name=document.createElement('td')
+                            name.innerText = person[i]['name']
+                            tr.appendChild(name)
+                            
+                            var surname=document.createElement('td')
+                            surname.innerText = person[i]['surname']
+                            tr.appendChild(surname)
+
+                            var age=document.createElement('td')
+                            age.innerText = person[i]['age']
+                            tr.appendChild(age)
+
+                            var country=document.createElement('td')
+                            country.innerText = person[i]['country']
+                            tr.appendChild(country)
+
+                            var email=document.createElement('td')
+                            email.innerText = person[i]['email']
+                            tr.appendChild(email)
+                            
+                            document.getElementsByTagName('tbody')[0].appendChild(tr)
+                        }
+					}
+				}
+				r.open('GET', 'people.json')
+				r.send()
+                $(document).ready(function () {
+                $('#personalData').DataTable();
+        });
+		</script>
+
+	</body>
+</html>
