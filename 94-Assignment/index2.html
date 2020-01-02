@@ -3,7 +3,7 @@
     <head>
         <title>Zadanie domowe EDI</title>
         <meta charset="UTF-8">
-       <link rel="stylesheet" href="style.css">
+       <link rel="stylesheet" href="style2.css">
         <meta name="author" content="Viktoriia Kravchuk">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -23,14 +23,16 @@
                $.getJSON("plan.json",function(data){
                  json=data['zajecia'];
                 for (var i=0; i<json.length; i++) {
-                    var tr='<tr>'
-                    if (json[i]['typ'].innerText =='kolokwium'){
+                    var tr="<tr>"
+                    if (json[i]['typ'].innerText=="kolokwium"){
                         $(tr).css('color','red')
                         var zakres='<span id="zakres">'+"Material obowiązujący na kolokwium:  "+json[i]['kolokwium']+'</span>'
+                        tr.setAttribute("id","kolokwium")
+                    
                     }
                     tr+= "<td class='termin'>"+json[i]['termin']+'</td>';
                     tr+= "<td class='godziny'>" + json[i]['dzien'] + ' '+ json[i]['od-godz'] + '-' + json[i]['do-godz'] + " </td>";
-                    tr+= "<td class='przedmiot'>" + json[i]['przedmiot'] + " </td>";
+                    tr+= "<td class='przedmiot' id='class_"+[i]+"'>" + json[i]['przedmiot'] + " </td>";
                     tr+='<td class="typ">'+json[i]['typ']+'</td>';
                     if (json[i]['nauczyciel'].hasOwnProperty('#text')){
                         tr+='<td class="nauczyciel">'+json[i]['nauczyciel']['#text']+'</td>';
@@ -45,6 +47,12 @@
                     tr+= '</tr>'
                     $('#plan').append(tr);
                 }
+                $(".przedmiot").click(function () {
+                   
+                });
+                $("#kolokwium").mouseenter(function(){
+                    
+                })
                })
            })
         </script>

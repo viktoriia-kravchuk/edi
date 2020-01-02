@@ -1,0 +1,33 @@
+@media screen {body { width: 90%; margin: 5mm auto; }}
+@media print {body { width: 100%; margin: auto; }}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+     text-align: center; font-size: 11pt;
+     }
+
+table {
+     margin: auto;
+     width: 100%;
+     border-collapse: collapse;
+    font-size: 8pt; 
+    }
+tr{ 
+    background-color: darkseagreen;
+    border-color: darkseagreen;
+    border-style: solid;
+    border-width: 1pt;
+     }
+td{ 
+    background-color: azure;
+    text-align: center;
+    border-color: darkseagreen;
+    border-style: solid;
+    border-width: 1pt; 
+    height:2em
+    }
+td.termin {
+    width: 6.5em
+}
+td.godziny {
+    width: 9.5em
+}
