@@ -3,8 +3,9 @@
     <head>
         <title>Zadanie domowe EDI</title>
         <meta charset="UTF-8">
-       <!--<link rel="stylesheet" href="style.css">-->
+       <link rel="stylesheet" href="style.css">
         <meta name="author" content="Viktoriia Kravchuk">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     </head>
     <body>
@@ -41,11 +42,19 @@
                             typ.innerText = clases[i]['typ']
                             tr.appendChild(typ)
                            
-                            if (typ=='kolokwium')
+                            if (typ.innerText=='kolokwium')
                             {
-                                $('tr').css('color','red')
+                                $(tr).css('color','red')
+                                
                             }
-
+                            $(tr).mouseenter(function()
+                                {
+                                    if (typ.innerText=='kolokwium'){
+                                        var alert=document.createElement('p')
+                                        alert.innerText=clases[i]['kolokwium']
+                                        alert(alert)
+                                    }
+                                })
                             var nauczyciel=document.createElement('td')
                             nauczyciel.innerText = clases[i]['nauczyciel']['#text']
                             tr.appendChild(nauczyciel)
@@ -55,7 +64,6 @@
                             tr.appendChild(sala)
 
                             document.getElementsByTagName('tbody')[0].appendChild(tr)
-
                     }
                 }
            }

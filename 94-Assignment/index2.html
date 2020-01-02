@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zadanie domowe EDI</title>
+        <meta charset="UTF-8">
+       <link rel="stylesheet" href="style.css">
+        <meta name="author" content="Viktoriia Kravchuk">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <h1>Informatyka stosowana</h1>
+        <h2>WZISS1-1112</h2>
+        <h2>Viktoriia Kravchuk</h2>
+        <table id="plan">
+            <thead>
+                <tr><th>Termin</th><th>Dzień,godzina</th><th>Przedmiot</th><th>Typ</th><th>Nauczyciel</th><th>Sala</th></tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <script>
+           $(document).ready(function(){
+               $.getJSON("plan.json",function(data){
+                 json=data['zajecia'];
+                for (var i=0; i<json.length; i++) {
+                    var tr='<tr>'
+                    if (json[i]['typ'].innerText =='kolokwium'){
+                        $(tr).css('color','red')
+                    }
+                    tr+= "<th class='termin'>"+json[i]['termin']+'</th>';
+                    tr+= "<th class='godziny'>" + json[i]['dzien'] + ' '+ json[i]['od-godz'] + '-' + json[i]['do-godz'] + " </th>";
+                    tr+= "<th class='przedmiot'>" + json[i]['przedmiot'] + " </th>";
+                    tr+='<th class="typ">'+json[i]['typ']+'</th>';
+                    if (json[i]['nauczyciel'].hasOwnProperty('#text')){
+                        tr+='<th class="nauczyciel">'+json[i]['nauczyciel']['#text']+'</th>';
+                        var zakres='<span id="zakres">'+"Material obowiązujący na kolokwium:  "+json[i]['kolokwium']+'</span>'
+                    }
+                    else{
+                        tr+='<th></th>'
+                    }
+                    if (json[i].hasOwnProperty('sala')) {
+                        tr+= "<th class='sala'>" + json[i]['sala']+'</th>';
+                    }
+                    tr+= '</tr>'
+                    $('#plan').append(tr);
+                }
+               })
+           })
+        </script>
+    </body>
+</html>
