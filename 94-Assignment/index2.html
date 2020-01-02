@@ -26,20 +26,21 @@
                     var tr='<tr>'
                     if (json[i]['typ'].innerText =='kolokwium'){
                         $(tr).css('color','red')
-                    }
-                    tr+= "<th class='termin'>"+json[i]['termin']+'</th>';
-                    tr+= "<th class='godziny'>" + json[i]['dzien'] + ' '+ json[i]['od-godz'] + '-' + json[i]['do-godz'] + " </th>";
-                    tr+= "<th class='przedmiot'>" + json[i]['przedmiot'] + " </th>";
-                    tr+='<th class="typ">'+json[i]['typ']+'</th>';
-                    if (json[i]['nauczyciel'].hasOwnProperty('#text')){
-                        tr+='<th class="nauczyciel">'+json[i]['nauczyciel']['#text']+'</th>';
                         var zakres='<span id="zakres">'+"Material obowiązujący na kolokwium:  "+json[i]['kolokwium']+'</span>'
                     }
+                    tr+= "<td class='termin'>"+json[i]['termin']+'</td>';
+                    tr+= "<td class='godziny'>" + json[i]['dzien'] + ' '+ json[i]['od-godz'] + '-' + json[i]['do-godz'] + " </td>";
+                    tr+= "<td class='przedmiot'>" + json[i]['przedmiot'] + " </td>";
+                    tr+='<td class="typ">'+json[i]['typ']+'</td>';
+                    if (json[i]['nauczyciel'].hasOwnProperty('#text')){
+                        tr+='<td class="nauczyciel">'+json[i]['nauczyciel']['#text']+'</td>';
+                       
+                    }
                     else{
-                        tr+='<th></th>'
+                        tr+='<td></td>'
                     }
                     if (json[i].hasOwnProperty('sala')) {
-                        tr+= "<th class='sala'>" + json[i]['sala']+'</th>';
+                        tr+= "<td class='sala'>" + json[i]['sala']+'</td>';
                     }
                     tr+= '</tr>'
                     $('#plan').append(tr);
